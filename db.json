@@ -29,6 +29,12 @@
       "name": "yarley",
       "email": "yarley25@gmail.com",
       "password": "1234"
+    },
+    {
+      "id": "194aa04d5c0",
+      "name": "goku",
+      "email": "goku@90gmail.com",
+      "password": "mmm"
     }
   ]
 }
